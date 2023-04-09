@@ -1,39 +1,23 @@
-# Next Calculator
+# Calculator
 
-This project was bootstrapped with [Next.js](https://nextjs.org/) and uses [React](https://reactjs.org/).<br>
-It is hosted [here](https://calculator.mart1d4.com) on [Vercel](https://vercel.com/).
+This is a calculator app built with Next.js.
 
-# A simple yet powerful calculator
+## Getting Started
 
-This is a simple calculator that can do basic math operations and some more advanced ones. New features will be added in the future, along with an added possibility to change the theme of the calculator.
+To use the Calculator app, simply navigate to the app's URL in your web browser.
 
-# How to run
+## Usage
 
-To run this project, you need to have [Node.js](https://nodejs.org/en/) installed on your computer. After that, you can run the following commands:
+To use the calculator, click the buttons on the calculator's interface to input numbers and perform calculations. The calculator supports addition, subtraction, multiplication, and division, as well as exponentiation and taking the square root of a number.
 
-Clone the repository and cd into it:
+## Styling
 
-```bash
-git clone git@github.com:mart1d4/next-calculator.git
-cd next-calculator
-```
+The styling of the Calculator app is heavily influenced by the style of the Google Calculator app on Android. The layout and colors are designed to be familiar to users of the Android app.
 
-Install the dependencies:
+## Contributing
 
-```bash
-npm install
-```
+Contributions to this project are welcome. To contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and we'll review your code.
 
-Run the project:
+## License
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-# How to contribute
-
-If you want to contribute to this project, you can do so by forking the repository and making a pull request. If you want to add a feature, please make sure to open an issue first so that we can discuss it.
-
-For any inquiries, please contact me by [email](mailto:mart1danton@gmail.com) or on [Discord](https://discord.com/) (mart1d4#0001).
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
